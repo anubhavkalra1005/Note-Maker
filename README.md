@@ -6,13 +6,13 @@ I'm currently working on this project and will add **Login** and **Signup** page
 
 **Overview of this project:** 
 # **Home Page**
-<img src="https://user-images.githubusercontent.com/104834134/168747813-01d6374d-3928-401e-8165-02156d21f379.png" width=700 height=400>
+![image](https://user-images.githubusercontent.com/104834134/168747813-01d6374d-3928-401e-8165-02156d21f379.png)
 
 # **Add Notes Page**
-<img src="https://user-images.githubusercontent.com/104834134/168747954-a1371705-2fe9-4425-bfb3-d729a079a5a0.png" width=700 height=400>
+![image](https://user-images.githubusercontent.com/104834134/168747954-a1371705-2fe9-4425-bfb3-d729a079a5a0.png)
 
 # **View All Notes Page**
-<img src="https://user-images.githubusercontent.com/104834134/168748130-affed97e-d30d-48af-9078-94eb30c3b94a.png" width=700 height=400>
+![image](https://user-images.githubusercontent.com/104834134/168748130-affed97e-d30d-48af-9078-94eb30c3b94a.png)
 
 # <h1>If You want this project you can just clone this and follow the instructions given below:</h1>
 
